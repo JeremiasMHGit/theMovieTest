@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App Jeremias</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_movies">Peliculas</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_gallery">Galeria</string>
+    <string name="app_selectImage">Seleccionar/Tomar foto</string>
+    <string name="action_top_rated">Mejor calificadas</string>
+    <string name="action_now_playing">Recomendadas</string>
+    <string name="action_popular">Populares</string>
+    <string name="action_sort_by">Ordenar por</string>
+    <string name="action_retry">Reintentar</string>
+    <string name="movie_poster">Pelicula poster</string>
+
+    <string name="PREFERENCE_FILE_KEY">com_example_themovietest_PREFERENCE_FILE_KEY</string>
+
+    <string name="unknown_error">Error desconocido</string>
+</resources>
